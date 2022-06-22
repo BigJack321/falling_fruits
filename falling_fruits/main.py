@@ -153,7 +153,7 @@ def main():
     fruit_vel = 0
     max_bombs = 0
     max_fruits = 0
-    gluttony_score = 25
+    gluttony_score = 0
     gluttony_health_points = 3
     avaliable_y_spawn = [-300,-240,-180,-120,-60,0,60]
     avaliable_x_spawn = [10,65,120,175,230,285,340]
